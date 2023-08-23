@@ -2,4 +2,4 @@
 My Notes on jouneying through the whole Taisho Tripitaka and Daozang in Chinese 
 
 # Index
-[GitHub Pages](https://pages.github.com/)
+[Test](https://pages.github.com/morgan9992/Taisho-Daozang/main/README.md)
